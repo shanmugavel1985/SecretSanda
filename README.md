@@ -38,8 +38,8 @@ Requirements
 Steps
 
 1️1 Clone or download the repository:
-    git clone https://github.com/your-username/secret-santa-php.git
-    cd secret-santa-php
+    git clone https://github.com/shanmugavel1985/SecretSanda.git
+    cd SecretSanda
 
 2️2 Install dependencies (for PHPUnit):
     composer install
